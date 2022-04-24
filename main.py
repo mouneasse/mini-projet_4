@@ -379,7 +379,7 @@ decompte_attaque_mechant1_1 = 0
 attaque_mechant1_1_droite = False
 image_coeur_vie = pygame.image.load(chemin_repertoire + "\contenu\divers_image\coeur_vie.png")
 nbr_vie = 4
-nbr_vie_mechant1 = 1
+nbr_vie_mechant1 = 5
 distance_attaque_mechant = 150
 
 
